@@ -7,7 +7,7 @@ $(".box").transition({
 
 });
 
-
+$('.box').addClass('animated fadeInDownBig');
 
 //console.log("'MERICA!!'"); 
 // Will not appear on the page just explains that everything is connected //
